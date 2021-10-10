@@ -1,5 +1,5 @@
-# Collecting data from the site
-This part collects data from the site coinmarketcap.com
+# Here retrieveing data from a site 
+All data comes from site coinmarketcap.com
 
 # Installation
 ```
@@ -14,4 +14,4 @@ import requests
 ```
 
 # Examples
-https://coinmarketcap.com/coins/ all info has been collected from this site, write the name of particular currency, then it shows up, you are welcome
+First you enter the name of crypto currency, after it outputs all info from https://coinmarketcap.com/coins/
